@@ -9,7 +9,25 @@
       "UnauthRoleName": "amplify-awscoursa4-dev-111610-unauthRole",
       "StackName": "amplify-awscoursa4-dev-111610",
       "StackId": "arn:aws:cloudformation:eu-west-1:453997123590:stack/amplify-awscoursa4-dev-111610/7ed06b00-dd00-11ed-9b02-066becad3e07",
-      "AmplifyAppId": "d2vvvhee94bx04"
+      "AmplifyAppId": "d2vvvhee94bx04",
+      "APIGatewayAuthURL": "https://s3.amazonaws.com/amplify-awscoursa4-dev-111610-deployment/amplify-cfn-templates/api/APIGatewayAuthStack.json"
+    },
+    "categories": {
+      "storage": {
+        "dynamou": {}
+      },
+      "function": {
+        "awscoursa4dd076ccb": {
+          "deploymentBucketName": "amplify-awscoursa4-dev-111610-deployment",
+          "s3Key": "amplify-builds/awscoursa4dd076ccb-464570433131706d634b-build.zip"
+        }
+      },
+      "auth": {
+        "awscoursa4": {}
+      },
+      "api": {
+        "ApiDesBebous": {}
+      }
     }
   }
 }
